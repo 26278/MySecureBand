@@ -19,8 +19,8 @@
 
 
 ###### Administrators
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status | Beveiligingseisen |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | A0001 | Geregistreerd gebruiker | een administratie pagina | nieuwe berichten kan plaatsen | | Must have | TODO | Inputs beveiligen |
 | A0002 | Geregistreerd gebruiker | een administratie pagina | nieuwe berichten kan aanpassen | | Should have | TODO | Inputs beveiligen |
 | A0002 | Geregistreerd gebruiker | een administratie pagina | bestaande berichten kan verwijderen | | Must have | TODO | Inputs beveiligen |
