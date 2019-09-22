@@ -3,7 +3,7 @@
 ###### Anonieme gebruikers
 
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status | Beveiligingseisen |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | G0001 | Gebruiker | op de homepage kunnen zien wat het onderwerp van de website is | weet wat ik kan verwachten en wat de mogelijkheden zijn | | Must have | TODO | Geen |
 | G0002 | Gebruiker | enthousiast raken als ik de homepage zie | zodat ik geamuseerd word. | | Should have | TODO | Schokkende en aanstootgevende beelden blokkeren |
 | G0003 | Gebruiker | nieuwsberichten zien over het onderwerp | zodat ik op de hoogte ben over het onderwerp | | Should have | TODO | Geen |
